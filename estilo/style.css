@@ -175,6 +175,16 @@ footer > p {
     margin-top: 20px;
 }
 
+
+a#git{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a#git:hover {
+    text-decoration: underline white;
+}
 h2{
     font-family: var(--fonte-android);
     color: #063d06;
